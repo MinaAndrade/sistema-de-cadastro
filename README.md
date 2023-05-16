@@ -7,5 +7,5 @@
 Para rodar esse projeto, precisa ter instalado:
 
 ```
-  Dev-C++
+  node app.js
 ```
