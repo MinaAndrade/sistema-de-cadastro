@@ -7,5 +7,10 @@
 Para rodar esse projeto, precisa ter instalado:
 
 ```
-  node app.js
+  VsCode
 ```
+
+Passo a Passo:
+
+1. Você primeiramente irá criar um usuário e cadastrar sua senha de 4 dígitos
+2. Após isso, fará o login para entrar no sistema
